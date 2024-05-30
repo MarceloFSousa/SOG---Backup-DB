@@ -1,4 +1,4 @@
-### Código simples em batch script para automação de backup com MongoDB. 
+### Código simples em batch script para automação de backup com MongoDB com batch script. 
 
 É preciso configurar os caminhos e baixar o MongoDB Command Line Database Tools. Link para download: [https://www.mongodb.com/try/download/database-tools]
 
